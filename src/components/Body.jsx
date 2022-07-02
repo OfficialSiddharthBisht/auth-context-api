@@ -1,5 +1,5 @@
 import React from "react";
-import {AuthContext} from "../contexts/AuthContext";
+import {AuthContext} from "../context/UserContext";
 import {Box} from "@chakra-ui/react";
 
 function Body()
